@@ -9,6 +9,7 @@ https://example.com/?view&param=
 https://example.com/&img=
 
 
+
 Param TXT Example:
 
 robots.txt
