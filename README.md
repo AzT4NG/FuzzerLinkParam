@@ -1,8 +1,11 @@
 Link TXT Example
 
 https://example.com/
+
 https://example.com/
+
 https://example.com/?view&param=
+
 https://example.com/&img=
 
 
